@@ -1,5 +1,4 @@
-const gallery = document.createElement("ul");
-gallery.classList.add("gallery");
+const gallery = document.querySelector(".gallery");
 
 // const li = document.createElement("li");
 // li.classList.add("gallery-item");
